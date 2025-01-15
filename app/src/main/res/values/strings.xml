@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MOBPROG</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="signup">Don\'t have an account? Sign up now!</string>
+    <string name="First_Name">First Name</string>
+    <string name="last_Name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="reg">REGISTER</string>
+    <string name="gender">What is your Gender?</string>
+    <string name="cardnumber">Card Number</string>
+    <string name="expirydate">Expiry Date</string>
+    <string name="cvv">CVV</string>
+
+    <string name="filter_prompt">Filter</string>
+
+</resources>

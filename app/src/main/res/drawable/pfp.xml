@@ -1,0 +1,13 @@
+<!-- res/drawable/circular_frame.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Frame color and thickness -->
+    <solid android:color="@android:color/transparent" /> <!-- Make center transparent -->
+    <stroke
+        android:width="4dp"
+    android:color="#FFFFFF" />
+
+    <!-- Optional shadow effect for the frame -->
+    <corners android:radius="100dp" />
+</shape>
